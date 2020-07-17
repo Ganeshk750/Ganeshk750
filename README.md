@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-kumar-dbg/)](https://www.linkedin.com/in/ganesh-kumar/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ganesh9ot@gmail.com)](mailto:ganesh9ot@gmail.com)
+
+# Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <!--
 **Ganeshk750/Ganeshk750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
