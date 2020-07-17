@@ -28,7 +28,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 [![Aws](https://img.shields.io/badge/-Aws-000000?style=flat-square&logo=aws)]()
 
-
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
