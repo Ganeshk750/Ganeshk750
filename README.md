@@ -8,10 +8,12 @@
 
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
 [![Spring](https://img.shields.io/badge/-Spring-7BF30B?style=flat-square&logo=Spring)]()
-[![Spring Boot](https://img.shields.io/badge/-Spring Boot-7BF30B?style=flat-square&logo=Spring Boot)]()
-[![Spring Security ](https://img.shields.io/badge/-Spring Security -7BF30B?style=flat-square&logo=Spring Security )]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=SpringBoot)]()
+[![SpringData](https://img.shields.io/badge/-SpringData-7BF30B?style=flat-square&logo=SpringData)]()
+[![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-7BF30B?style=flat-square&logo=SpringSecurity)]()
 
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Angular](https://img.shields.io/badge/-Angular-c14438?style=flat-square&logo=Angular)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
