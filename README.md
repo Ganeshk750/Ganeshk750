@@ -8,6 +8,8 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
+[![Spring](https://img.shields.io/badge/-Spring-7BF30B?style=flat-square&logo=Spring)]()
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=SpringBoot)]()
 
 [![Angular](https://img.shields.io/badge/-Angular-c14438?style=flat-square&logo=Angular)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
@@ -22,7 +24,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-[![Aws](https://img.shields.io/badge/-Aws-FEFEFE?style=flat-square&logo=zeit)]()
+[![Aws](https://img.shields.io/badge/-Aws-000000?style=flat-square&logo=zeit)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
