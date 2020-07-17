@@ -40,13 +40,13 @@ I have experience working with a range of these technologies and frameworks and 
 
 ---
 ~~~
-Fun facts âš¡ : 
+Fun facts : 
         { I love 
           [ 
-            "Playing" : ðŸŽ¸,
-            "Gaming" : ðŸŽ®, 
-            "Listening" : "All genres of Music ðŸŽ§",
-            "Watching": âš½
+            "Playing" : 🏏,
+            "Gaming" : 🎮, 
+            "Listening" : "Music 🎧",
+            "Watching": 🎥 
           ]
         };
 ~~~
