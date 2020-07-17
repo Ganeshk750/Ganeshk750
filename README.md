@@ -5,8 +5,9 @@
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 I’m Ganesh. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
-I am a website developer (backend in particular) , having knowledge front-end Technologies as well.            
+I am a website developer (backend in particular) , having knowledge front-end Technologies as well.           
 My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
+I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
 
 ## Technologies : 
 
@@ -38,14 +39,17 @@ My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
-Here are some ideas to get you started:
+~~~
+Fun facts âš¡ : 
+        { I love 
+          [ 
+            "Playing" : ðŸŽ¸,
+            "Gaming" : ðŸŽ®, 
+            "Listening" : "All genres of Music ðŸŽ§",
+            "Watching": âš½
+          ]
+        };
+~~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=Ganeshk750&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
