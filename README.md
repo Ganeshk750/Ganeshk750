@@ -28,7 +28,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Sass](https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white)]()
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
-[![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Node.js&javascript)]()
+[![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Node.js)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]()
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]()
 
