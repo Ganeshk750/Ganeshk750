@@ -4,7 +4,7 @@
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I’m Ganesh. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
+I’m **Ganesh**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
 I am a website developer (backend in particular) , having knowledge front-end Technologies as well.           
 My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
 I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
@@ -13,10 +13,10 @@ I have experience working with a range of these technologies and frameworks and 
 
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
 [![Spring](https://img.shields.io/badge/-Spring-75F33A?style=flat-square&logo=Spring)]()
-[![SpringMvc](https://img.shields.io/badge/-SpringMvc-75F33A?style=flat-square&logo=SpringMvc)]()
-[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=SpringBoot)]()
-[![SpringData](https://img.shields.io/badge/-SpringData-7BF30B?style=flat-square&logo=SpringData)]()
-[![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=SpringSecurity)]()
+[![SpringMvc](https://img.shields.io/badge/-SpringMvc-75F33A?style=flat-square&logo=Spring)]()
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=Spring)]()
+[![SpringData](https://img.shields.io/badge/-SpringData-7BF30B?style=flat-square&logo=Spring)]()
+[![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=Spring)]()
 [![RestApis](https://img.shields.io/badge/-RestApis-75F33A?style=flat-square&logo=RestApis)]()
 
 
@@ -35,7 +35,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=Aws)]()
+[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=aws)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
