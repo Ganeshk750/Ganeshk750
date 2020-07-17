@@ -4,12 +4,16 @@
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
+I’m Ganesh. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
+I am a website developer (backend in particular) , having knowledge front-end Technologies as well.            
+My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
 
 ## Technologies : 
 
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
 [![Spring](https://img.shields.io/badge/-Spring-75F33A?style=flat-square&logo=Spring)]()
-[![Spring](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=SpringBoot)]()
+[![SpringMvc](https://img.shields.io/badge/-SpringMvc-75F33A?style=flat-square&logo=SpringMvc)]()
+[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=SpringBoot)]()
 [![SpringData](https://img.shields.io/badge/-SpringData-7BF30B?style=flat-square&logo=SpringData)]()
 [![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=SpringSecurity)]()
 [![RestApis](https://img.shields.io/badge/-RestApis-75F33A?style=flat-square&logo=RestApis)]()
