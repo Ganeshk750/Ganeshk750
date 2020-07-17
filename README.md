@@ -27,13 +27,14 @@ My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, 
 [![Sass](https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white)]()
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
+[![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Expressjs)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]()
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]()
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-[![Aws](https://img.shields.io/badge/-Aws-000000?style=flat-square&logo=zeit)]()
+[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=zeit)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
