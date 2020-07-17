@@ -34,7 +34,7 @@ My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=zeit)]()
+[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=Aws)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
