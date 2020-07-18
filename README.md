@@ -36,7 +36,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
-[![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=aws)]()
+[![Aws](https://img.shields.io/badge/-aws-F39C12?style=flat-square&logo=aws)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
