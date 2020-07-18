@@ -16,7 +16,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Spring](https://img.shields.io/badge/-Spring-75F33A?style=flat-square&logo=Spring)]()
 [![SpringMvc](https://img.shields.io/badge/-SpringMvc-75F33A?style=flat-square&logo=Spring)]()
 [![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=Spring)]()
-[![SpringData](https://img.shields.io/badge/-SpringData-7BF30B?style=flat-square&logo=Spring)]()
+[![SpringJpa](https://img.shields.io/badge/-SpringJpa-7BF30B?style=flat-square&logo=Spring)]()
 [![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=Spring)]()
 [![RestApis](https://img.shields.io/badge/-RestApis-75F33A?style=flat-square&logo=RestApis)]()
 
