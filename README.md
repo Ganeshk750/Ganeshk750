@@ -7,7 +7,7 @@
 
 I’m **Ganesh**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
 I am a website developer (backend in particular) , having knowledge front-end Technologies as well.           
-My key skills include Java, springBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
+My key skills include Java, SpringBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
 I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
 
 ## Technologies : 
