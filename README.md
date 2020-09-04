@@ -55,6 +55,9 @@ Fun facts :
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Ganeshk750&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<img src="https://github-readme-stats.Ganeshk750.vercel.app/api/top-langs/?username=Ganeshk750&layout=compact&theme=radical" />
+
+
 
 <p>
 <img src=https://komarev.com/ghpvc/?username=Ganeshk750 alt="Ganesh Kumar" /> 
