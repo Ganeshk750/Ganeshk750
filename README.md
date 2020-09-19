@@ -17,6 +17,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Spring Badge](https://img.shields.io/badge/-Spring-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
 [![Spring Badge](https://img.shields.io/badge/-SpringMvc-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
 [![Spring Badge](https://img.shields.io/badge/-SpringBoot-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
+[![Spring Badge](https://img.shields.io/badge/-SpringJpa-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
 
 [![Spring](https://img.shields.io/badge/-Spring-7BF30B?style=flat-square&logo=Spring)]()
 [![SpringMvc](https://img.shields.io/badge/-SpringMvc-7BF30B?style=flat-square&logo=Spring)]()
