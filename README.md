@@ -22,11 +22,11 @@ I have experience working with a range of these technologies and frameworks and 
 [![RestApis Badge](https://img.shields.io/badge/-RestApis-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
 
 [comment]:[![Spring](https://img.shields.io/badge/-Spring-7BF30B?style=flat-square&logo=Spring)]()
-[![SpringMvc](https://img.shields.io/badge/-SpringMvc-7BF30B?style=flat-square&logo=Spring)]()
-[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=Spring)]()
-[![SpringJpa](https://img.shields.io/badge/-SpringJpa-7BF30B?style=flat-square&logo=Spring)]()
-[![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=Spring)]()
-[![RestApis](https://img.shields.io/badge/-RestApis-75F33A?style=flat-square&logo=RestApis)]()
+[comment]:[![SpringMvc](https://img.shields.io/badge/-SpringMvc-7BF30B?style=flat-square&logo=Spring)]()
+[comment]:[![SpringBoot](https://img.shields.io/badge/-SpringBoot-7BF30B?style=flat-square&logo=Spring)]()
+[comment]:[![SpringJpa](https://img.shields.io/badge/-SpringJpa-7BF30B?style=flat-square&logo=Spring)]()
+[comment]:[![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-75F33A?style=flat-square&logo=Spring)]()
+[comment]:[![RestApis](https://img.shields.io/badge/-RestApis-75F33A?style=flat-square&logo=RestApis)]()
 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
@@ -46,6 +46,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 
 [![Aws](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=aws)]()
+[![Aws Badge](https://img.shields.io/badge/-Aws-%F39C12.svg?style=flat-square&style=for-the-badge&logo=Aws&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
