@@ -1,7 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-kumar-dbg/)](https://www.linkedin.com/in/ganesh-kumar-dbg/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-%23339933.svg?style=flat-square&style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/ganesh9ot)](https://www.hackerrank.com/ganesh9ot)
-  <a href="https://www.hackerrank.com/ManishRahul?hr_r=1"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-%23339933.svg?style=flat-square&style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/ganesh9ot)](https://www.hackerrank.com/ganesh9ot) 
 [![stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/11921771/ganesh-kumar/)](https://stackoverflow.com/users/11921771/ganesh-kumar/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ganesh9ot@gmail.com)](mailto:ganesh9ot@gmail.com)
 
