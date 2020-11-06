@@ -64,7 +64,7 @@ Fun facts :
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Ganeshk750&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshk750&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshk750&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width="100%" />
 
 
 
