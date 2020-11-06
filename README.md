@@ -7,7 +7,7 @@
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 I’m **Ganesh**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
-I am a website developer (**Backend in particular**) 💻, having knowledge front-end Technologies as well.           
+I am a website developer (**Backend in particular**), having knowledge front-end Technologies as well.           
 My key skills include Java, SpringBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
 I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
 
