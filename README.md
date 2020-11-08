@@ -12,7 +12,7 @@ My key skills include Java, SpringBoot, JavaScript, CSS, HTML, Angular Node.js, 
 I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
 
 ## Technologies : 
-
+---
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
 [![Spring Badge](https://img.shields.io/badge/-Spring-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
 [![Spring Badge](https://img.shields.io/badge/-SpringMvc-%23339933.svg?style=flat-square&style=for-the-badge&logo=spring&logoColor=white)]()
@@ -47,7 +47,7 @@ I have experience working with a range of these technologies and frameworks and 
 
 [![Aws Badge](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=aws)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
-
+---
 ---
 ~~~
 Fun facts : 
