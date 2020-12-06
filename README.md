@@ -48,17 +48,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
-~~~
-Fun facts : 
-        { I love 
-          [ 
-            "Playing" : 🏏,
-            "Gaming" : 🎮, 
-            "Listening" : "Music 🎧",
-            "Watching": 🎥 
-          ]
-        };
-~~~
+
 ---
 ⭐️ From [Ganeshk750](https://github.com/Ganeshk750)
 ---
