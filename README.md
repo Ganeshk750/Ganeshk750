@@ -67,6 +67,7 @@ Fun facts :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshk750&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width="100%" />
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ganesh-kumar-dbg"><a class="LI-simple-link" href='https://in.linkedin.com/in/ganesh-kumar-dbg?trk=profile-badge'>Ganesh Kumar</a></div>
 
 
 <p>
