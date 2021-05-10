@@ -68,9 +68,10 @@ Fun facts :
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshk750&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width=80%/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshk750&theme=blue-green" width=80% />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ganeshk750&row=1">
 <p>
 <img src=https://komarev.com/ghpvc/?username=Ganeshk750 alt="Ganesh Kumar" /> 
-
 </p>
 
 
