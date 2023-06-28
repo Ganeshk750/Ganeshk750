@@ -72,6 +72,18 @@ Fun facts :
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshk750&theme=blue-green" width=80% />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ganeshk750&row=1">
+
+<details>
+<p align="center">
+  <a href="https://github.com/Ganeshk750">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganeshk750&theme=transparent" />
+  </a>
+<!--   <a href="https://github.com/Ganeshk750">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganeshk750&theme=transparent" />
+  </a>     -->
+</p>
+</details>
+
 <p>
 <img src=https://komarev.com/ghpvc/?username=Ganeshk750 alt="Ganesh Kumar" /> 
 </p>
