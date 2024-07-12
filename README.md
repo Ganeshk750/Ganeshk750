@@ -87,6 +87,9 @@ Fun facts :
 <p>
 <img src=https://komarev.com/ghpvc/?username=Ganeshk750 alt="Ganesh Kumar" /> 
 </p>
-
+<br>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
