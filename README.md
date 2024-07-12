@@ -82,14 +82,14 @@ Fun facts :
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganeshk750&theme=transparent" />
   </a>     -->
 </p>
+<p align="center">
+     <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 </details>
 
 <p>
 <img src=https://komarev.com/ghpvc/?username=Ganeshk750 alt="Ganesh Kumar" /> 
 </p>
-<br>
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+
 
 
