@@ -46,6 +46,7 @@ I have experience working with a range of these technologies and frameworks and 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
+[![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)]()
 [![Ngrok](https://img.shields.io/badge/-ngrok-140648?style=flat-square&logo=ngrok)]()
 
 [![Aws Badge](https://img.shields.io/badge/-Aws-F39C12?style=flat-square&logo=aws)]()
