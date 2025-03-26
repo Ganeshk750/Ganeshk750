@@ -9,10 +9,14 @@
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I’m **Ganesh**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
+<!-- I’m **Ganesh**. I am a web developer based in Bangalore who loves to create clean, professional, responsive & functional websites.
 I am a website developer (**Backend in particular**), having knowledge front-end Technologies as well.           
 My key skills include Java, SpringBoot, JavaScript, CSS, HTML, Angular Node.js, MongoDB & many more.
-I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new.
+I have experience working with a range of these technologies and frameworks and I am always looking for opportunities to work on something new. -->
+
+I’m a passionate **Full Stack Java Developer** with over 4 years of experience in building robust and scalable web applications. Based in **Bangalore**, I specialize in **Java, Spring Boot**, and **Angular**, creating seamless and responsive web experiences.
+
+I have a strong background in backend development, while also having hands-on experience with frontend technologies. My tech stack includes:
 
 ## Technologies : 
 [![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
@@ -53,6 +57,7 @@ I have experience working with a range of these technologies and frameworks and 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
 
 ---
+I’m currently diving into **Cloud Development** to enhance my skills and keep up with modern development practices. I enjoy learning new technologies and constantly improving my coding and problem-solving skills.
 ~~~
 Fun facts : 
         { I love 
